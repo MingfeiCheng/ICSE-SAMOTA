@@ -62,8 +62,8 @@ ssh -p 20022 -X erdos@localhost
 cd /home/erdos/workspace
 mkdir results
 logout
-docker cp implementation/pylot pylot:/home/erdos/workspace/pylot/
-docker cp implementation/scripts pylot:/home/erdos/workspace/pylot/
+docker cp pylot pylot:/home/erdos/workspace/pylot/
+docker cp scripts pylot:/home/erdos/workspace/pylot/
 ssh -p 20022 -X erdos@localhost
 cd /home/erdos/workspace/pylot/scripts
 chmod +x run_simulator.sh
