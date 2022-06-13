@@ -73,3 +73,9 @@ chmod +x run_simulator_without_b.sh
 chmod +x run_simulator_without_t.sh
 chmod +x run_simulator_without_t_b.sh
 ```
+
+#### Step4: Run SAMOTA
+```
+cd runner
+python3 run_SAMOTA_e.py
+```
