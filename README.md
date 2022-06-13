@@ -2,6 +2,8 @@
 This project is a fork of [2022-ICSE-Efficient Online Testing for DNN-Enabled Systems using
 Surrogate-Assisted and Many-Objective Optimization](https://orbilu.uni.lu/bitstream/10993/50091/1/SAMOTA-authorversion.pdf) (SAMOTA).
 
+Original Project Link: https://figshare.com/articles/journal_contribution/Replication_Package_For_Efficient_Online_Testing_for_DNN-based_Systems_using_Surrogate-Assisted_and_Many-Objective_Optimization_/16468530
+
 I test this project on Ubuntu 20.04 running on Intel i5-11600K CPU with RTX 3060 Ti (8 GB) and 32 GB Memory.
 
 ## Environment Config with Docker
